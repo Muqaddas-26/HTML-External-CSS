@@ -1,2 +1,2 @@
-# HTML-External-CSS
-It is my task to create External CSS including my bio.
+# Muqadads ali
+Hellow World. I am looking forward for best oppotunities.
